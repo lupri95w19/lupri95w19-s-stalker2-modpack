@@ -1,4 +1,6 @@
 # lupri95w19's-stalker2-modpack
+## Thank you for visiting my Github :D
+### https://www.nexusmods.com/stalker2heartofchornobyl/mods/402?tab=description
 Hello in these days I downloaded quite a few mods and now I wanted to share my mod pack with you. This modpack enhances Stalker 2 experience, making harder fights, fixing terrible weight and much more.  If you find any problems, let me know.
 
 # Modpack Details
