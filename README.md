@@ -39,7 +39,7 @@ Hello in these days I downloaded quite a few mods and now I wanted to share my m
 ### Disabled
 - ❌ **menumus** (Shadow of Chernobyl menu theme, overridden by MMMM_Lost_Alpha_MoozE_Radwind Pt.2)
 - ❌ **zz_RealGunNamesEN_P** (broken, possibly by ZZ_Mutant_Loot)
-- ❌ **deathmus** (unknown purpose, please share insights in comments)
+- ❌ **deathmus** (tbh I don't know what this does, please share what you know in comments)
 
 ---
 
