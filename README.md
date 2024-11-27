@@ -5,7 +5,7 @@ Hello in these days I downloaded quite a few mods and now I wanted to share my m
 This modpack enhances Stalker 2 experience, making harder fights, fixing terrible weight and much more.
 If you find any problems, let me know.
 
-## I DIDN'T MAKE THESE MODS, I JUST PUT 'EM TOGETHER AND FIXED CONFLICTS.
+I DIDN'T MAKE THESE MODS, I JUST PUT 'EM TOGETHER AND FIXED CONFLICTS.
 
 ### Enabled
 - ✅ **IncreasedRewards_2** (x2 rewards)
