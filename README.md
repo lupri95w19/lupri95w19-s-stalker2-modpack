@@ -7,6 +7,8 @@ If you find any problems, let me know.
 
 I DIDN'T MAKE THESE MODS, I JUST PUT 'EM TOGETHER AND FIXED CONFLICTS.
 
+## Game requires Eng language
+
 ### Enabled
 - ✅ **IncreasedRewards_2** (x2 rewards)
 - ✅ **medkitnoeffect** (no sound effect, only injection sound)
@@ -26,7 +28,7 @@ I DIDN'T MAKE THESE MODS, I JUST PUT 'EM TOGETHER AND FIXED CONFLICTS.
 - ✅ **zz_Maklane_grenades_weight_balance_P**
 - ✅ **zz_Maklane_consumables_weight_balance_P**
 - ✅ **ZZ_Mutant_Loot_Localization_P**
-- ✅ **ZZ_Mutant_Loot_P**
+- ✅ **ZZ_Mutant_Loot_P** (choose this one or zz_RealGunNamesEN_P cause only one can activated, not gonna fix it)
 - ✅ **ZZ_Mutant_Loot_Textures_P**
 - ✅ **zz_no_backpack_animation**
 - ✅ **PoZ_BetterBlood_x4_P** (BLOOD!)
@@ -40,7 +42,7 @@ I DIDN'T MAKE THESE MODS, I JUST PUT 'EM TOGETHER AND FIXED CONFLICTS.
 
 ### Disabled
 - ❌ **menumus** (Shadow of Chernobyl menu theme, overridden by MMMM_Lost_Alpha_MoozE_Radwind Pt.2)
-- ❌ **zz_RealGunNamesEN_P** (broken, possibly by ZZ_Mutant_Loot)
+- ❌ **zz_RealGunNamesEN_P** (broken, choose this one or ZZ_Mutant_Loot, not gonna fix it)
 - ❌ **deathmus** (tbh I don't know what this does, please share what you know in comments)
 
 ---
