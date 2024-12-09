@@ -1,4 +1,5 @@
 # lupri95w19's-stalker2-modpack
+# Removed from nexus cause should've been a collection, posting latest version here. I beat the game so for atleast 1-2 years I won't play Stalker 2, so no more updates
 ## Thank you for visiting my Github :D
 ## Updated version on Nexus
 ### https://www.nexusmods.com/stalker2heartofchornobyl/mods/402?tab=description
